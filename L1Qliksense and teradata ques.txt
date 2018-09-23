@@ -914,7 +914,7 @@ SQL Server Agent
 
 **not a qualifying join operation--- mid join
 *(1,2,6,7,8)--might store as a var.
-*ircular refernece ---> True
+*circular refernece ---> True
 waterfall chart---> multiple maesures and 2 measures
 histogram ---> one dimension 1 measure
 app published --> true
@@ -926,15 +926,42 @@ not about extension-----> rar
 not true about store stmt--->xslx
 not true about partial load---> remove
 comapre major values that are hard to compare----> combo chart
-values and total values---> piechart
+realtion b/w values and total values---> piechart
 numerical values compare----> gauge chart
 space constraint high herical data----> data chart
-distribution of interval time----> histogram
+distribution of interval time ----> histogram
 alternative dimensions<---- cyclic dimension 
 token----> 10
 master item (not true)----> variables
 qlik sense standardmode----> section access with user id
+to compare range and distribution ---> distribution plot
+
 s/w:
+not a model(Ans)
 quality policy in a doc ----> qulaity manual
+
+
+
+
+QPA:
+1> QPA ---> Quality Process Awareness
+2> QMS---->QUAlity management system
+3> knowing project baseline adding requirements----> configuration management
+4> input text box containing only numeric types.what testing can be conducted-----> functional
+5> difference b/w olap & oltp ---> 2 & 
+
+Teradata:
+** Feature of dependent datamart----> a source from dataware house.
+** Fallback in teradata----> both 1 and 2
+** appropiate action ----> where clause in the primary index of query
+** after assigning more space while executing which acton needed -------> remove the end loading cmd and resub 
+** tactical and stratergic ---> often invloves complex joins and aggregation
+
+Ab Initio:
+** to remove duplicate other than dedup----> rollup
+** doesn't shw pipeline parallellism ---> sort
+** Null key(dedup sort) ---> no row will be selected
+** multistage component ---> rollup
+
 
 
